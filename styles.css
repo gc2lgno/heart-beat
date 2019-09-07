@@ -41,9 +41,3 @@ body{
     border-radius: 50%;
     transform: translateY(-50%);
 }
-
-/* .container:hover .corazon{
-    transform: scale(1.5) rotate(-45deg);
-    transition: all .5s;
-
-} */
